@@ -1,0 +1,7 @@
+{
+	"id": 123,
+	"first_name": "Kazuo",
+	"last_name": "",
+	"email": "kazuo@example.com",
+	"date_created": ""
+}
